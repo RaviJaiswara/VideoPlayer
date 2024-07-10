@@ -1,0 +1,1 @@
+ /Users/fci/Desktop/codebase/flutter/video_player_app/.dart_tool/flutter_build/5ae5f32257abf553f58a4026157240f4/native_assets.yaml: 
